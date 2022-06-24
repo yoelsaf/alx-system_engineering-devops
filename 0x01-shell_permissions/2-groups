@@ -1,2 +1,2 @@
 #!/bin/bash
-yoelsaf adm cdrom sudo dip plugdev lpadmin lxd sambashare docker
+groups
