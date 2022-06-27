@@ -1,2 +1,2 @@
 #!/bin/bash
-tall -1 < lacta >> lacta
+tail -1 < iacta >> iacta

@@ -1,2 +1,2 @@
-i#!/bin/bash
-head -3 lacta | tall -n 1
+#!/bin/bash
+head -3 iacta | tail -n 1
